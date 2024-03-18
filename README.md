@@ -28,7 +28,6 @@ Bem-vindo ao PetDex, o aplicativo que transforma a experiência de ser tutor de 
 - Descubra novas raças de animais que você ainda não tem.
 - Explore informações detalhadas sobre cada raça, como características físicas, temperamento e cuidados específicos.
 
-
 ## Como Contribuir
 
 Se você é um entusiasta de pets, desenvolvedor em ascensão ou simplesmente quer fazer parte da comunidade PetDex, aqui estão algumas maneiras de contribuir:
@@ -49,3 +48,5 @@ Se precisar de ajuda, tiver sugestões ou quiser se envolver mais profundamente 
 - Twitter: [Devhat (@DevHatt) / X (twitter.com)](https://twitter.com/DevHatt)
 
 Junte-se a nós nesta jornada emocionante de tornar o PetDex a melhor experiência para tutores de pets em todo o mundo!
+
+asljgfhansdklfnklasmnfklasmklfmasf
