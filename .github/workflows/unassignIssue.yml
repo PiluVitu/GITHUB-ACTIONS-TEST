@@ -11,5 +11,6 @@ jobs:
       - uses: boundfoxstudios/action-unassign-contributor-after-days-of-inactivity@main
         with:
           last-activity: 1 # After how many days the issue should get unassigned ()
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           exempt-assignees: 'ManuelRauber,M4lph'
           message: 'Automatically unassigned after 7 days of inactivity.'
